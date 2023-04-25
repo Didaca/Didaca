@@ -3,6 +3,6 @@
 
 📚 I’m a Full-stack Developer based in Sofia, Bulgaria
 
-- 🌱 I’m currently learning Python & JavaScript
-- 📫 How to reach me:
+🌱 I’m currently learning Python & JavaScript
+📫 How to reach me:
 - 🧭 https://www.linkedin.com/in/deyan-ivanov-801543261/
