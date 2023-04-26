@@ -1,7 +1,7 @@
 👋 Hello, I’m
    Deyan Ivanov
 
-📚 I’m a FullStack Developer based in Sofia, Bulgaria
+📚 I’m a Full Stack Developer based in Sofia, Bulgaria
 
 🌱 I’m currently learning Python & JavaScript
 
